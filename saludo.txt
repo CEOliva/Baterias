@@ -2,8 +2,5 @@ Token: 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
 Hola a todos!
 Saludo de Yaffet!
 Saludo de Fernando!
-<<<<<<< HEAD
 Saludo de Cesar!
-=======
 Saludo de Martha!
->>>>>>> 0da7f1bda83d4c101524c00ef05f72a62fc20e2c
